@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import requests 
 
 load_dotenv() 
-api_key = os.getenv("api_key")
+api_key = os.getenv("api_key")  
 
 
 
